@@ -1,19 +1,10 @@
-1-NextJs Frontend Chat Bot:
-
-![Health Bot](backend/public/chat1.png)
-
-2-API Backend Chat Web Page:
-
-![API Screen](backend/public/chat2.png)
-
-
 # Health-Wellness-Agent2-With-Frontend-Bakend-Complete
 
 ## Backend
 
-1-NextJs Frontend Chat Bot:
+1-API Backend Chat Web Page:
 
-![Health Bot](backend/public/chat1.png)
+![API Screen](backend/public/chat2.png)
 
 # 🧠 Health & Wellness Agent2 (Backend)
 
@@ -213,9 +204,9 @@ https://health-wellness-agent2-backend.onrender.com/docs
 
 ## Frontend
 
-2-API Backend Chat Web Page:
+2-NextJs Frontend Chat Bot:
 
-![API Screen](backend/public/chat2.png)
+![Health Bot](frontend/public/chat1.png)
 
 
 # 🌿 Health & Wellness Assistant (Frontend)
