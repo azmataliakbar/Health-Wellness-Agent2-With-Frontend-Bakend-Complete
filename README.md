@@ -11,6 +11,10 @@
 
 ## Backend
 
+1-NextJs Frontend Chat Bot:
+
+![Health Bot](backend/public/chat1.png)
+
 # 🧠 Health & Wellness Agent2 (Backend)
 
 This is the backend for the **Health & Wellness Assistant**, built using **FastAPI** and enhanced with OpenAI for intelligent responses when local logic can't handle the query. It powers the frontend chat interface, delivering real-time fitness, nutrition, and wellness advice.
@@ -205,7 +209,14 @@ https://health-wellness-agent2-backend.onrender.com/
 
 https://health-wellness-agent2-backend.onrender.com/docs
 
+
+
 ## Frontend
+
+2-API Backend Chat Web Page:
+
+![API Screen](backend/public/chat2.png)
+
 
 # 🌿 Health & Wellness Assistant (Frontend)
 
