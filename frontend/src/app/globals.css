@@ -1,0 +1,33 @@
+@import "tailwindcss/preflight";
+@import "tailwindcss/utilities";
+
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+  /* Define your custom properties directly */
+  --font-sans: "Arial", "Helvetica", sans-serif;
+  --font-mono: "Courier New", monospace;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+/* Minimal reset if needed */
+body.custom-body {
+  background-image: url('/ex4.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-color: #000;
+  font-family: Arial, sans-serif;
+  margin-top: 10px;
+}
+
+
+
